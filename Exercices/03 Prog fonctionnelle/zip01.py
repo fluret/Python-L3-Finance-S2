@@ -11,5 +11,6 @@ def changeValues(d1, d2):
 
 dict3 = changeValues(dict1, dict2)
 
-
-print(dict3)
+print(f'Dictionnaire de départ 1 : {dict1}')
+print(f'Dictionnaire de départ 2 : {dict2}')
+print(f'Résultat : {dict3}')
